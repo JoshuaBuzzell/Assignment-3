@@ -112,7 +112,7 @@ namespace COMP10066_Lab3
             Sum(list1, false);  ///  calling the Sum() function by excluding negative element values.
             Sum(list1, true);   /// calling the Sum() function by including negative element values.
             Median(list1);    ///Calling the Median() method.
-            SD(list1);     /// Calling the SD method.
+            SD(list1);     /// Calling the SD method
 
             Console.WriteLine("The sum of the array = {0}", Sum(testDataD, true));   /// Print statement to test Sum()
 
